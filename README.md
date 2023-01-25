@@ -7,3 +7,6 @@ Two Different Builds I have used for my linux set up...
 
 # Pop OS with bspwm
 ![Screenshot 2023-01-10 142158](https://user-images.githubusercontent.com/85082822/211655495-bfa9eaf4-3877-48f0-9270-22ab3ee45a08.png)
+
+# EndeavorOS
+WIP
